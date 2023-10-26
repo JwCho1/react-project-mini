@@ -9,7 +9,7 @@ const Header = () => {
       <Container fluid>
         <Navbar.Brand href="/">
           <img 
-            src="https://fontmeme.com/permalink/230927/0ef75156bba8b2dfe9a9286e0e8c2ec9.png"
+            src="https://fontmeme.com/temporary/baeef83993ca06abdf65d950378ca609.png"
             width='100px'
           ></img>
         </Navbar.Brand>
